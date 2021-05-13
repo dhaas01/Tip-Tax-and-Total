@@ -1,0 +1,10 @@
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip Tax and total (2).csprojAssemblyReference.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip_Tax_and_total__2_.Form1.resources
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip_Tax_and_total__2_.Properties.Resources.resources
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip Tax and total (2).csproj.GenerateResource.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip Tax and total (2).csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\bin\Debug\Tip Tax and total (2).exe.config
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\bin\Debug\Tip Tax and total (2).exe
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\bin\Debug\Tip Tax and total (2).pdb
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip Tax and total (2).exe
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Tip, Tax and Total (2)\Tip Tax and total (2)\obj\Debug\Tip Tax and total (2).pdb
